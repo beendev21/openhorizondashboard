@@ -56,7 +56,7 @@ Essas técnicas auxiliam no controle de prazos, recursos e riscos, promovendo um
 🎥 LINK DA APRESENTAÇÃO
 
 Vídeo de demonstração e explicação do projeto (YouTube - não listado):  
-👉 [cole aqui o link do seu vídeo]
+👉(https://youtu.be/HOBoLpUXtAs)
 
 ---
 
